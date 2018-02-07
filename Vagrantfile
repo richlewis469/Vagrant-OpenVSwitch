@@ -33,7 +33,6 @@ Access:
 MSG_EOF
 
 ##############################################################################
-WEBSERVER_NODE_COUNT = 3
 
 Vagrant.configure("2") do |config|
 
